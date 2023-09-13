@@ -39,15 +39,16 @@ python merge_pdf.py
 ```
 O resultado da mesclagem estará disponível como "PDF Final.pdf" no diretório do projeto.
 
-## Contribuição
+### Contribuição
 
 Contribuições são bem-vindas. Sinta-se à vontade para melhorar este projeto e criar pull requests.
 
-## Licença
+### Licença
 
 Este projeto está sob a licença MIT.
 
-Nota: Certifique-se de usar este projeto de forma ética e de acordo com todas as leis e regulamentos locais relacionados ao manuseio de arquivos PDF e direitos autorais.
+## Nota: 
+Certifique-se de usar este projeto de forma ética e de acordo com todas as leis e regulamentos locais relacionados ao manuseio de arquivos PDF e direitos autorais.
 
 ```perl
 
