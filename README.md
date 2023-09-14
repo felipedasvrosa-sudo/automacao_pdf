@@ -50,8 +50,3 @@ Este projeto está sob a licença MIT.
 ## Nota: 
 Certifique-se de usar este projeto de forma ética e de acordo com todas as leis e regulamentos locais relacionados ao manuseio de arquivos PDF e direitos autorais.
 
-```perl
-
-Lembre-se de substituir `seu-usuario` e `seu-repositorio` com o seu nome de usuário e nome do repositório no GitHub. Certifique-se de adicionar um arquivo `LICENSE` ao seu projeto, de acordo com a licença que você deseja usar.
-
-```
